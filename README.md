@@ -8,7 +8,7 @@
 
 A plain-language guide for getting your Meshtastic nodes onto your community's **Portage** map and claiming them to your community. No coding required.
 
-Portage is the off-grid mapping and community-assets capability of the Hazardscape emergency management platform. Once a node is connected, it appears as a live marker on your community's map with its name, last-seen time, battery, position, and any sensor readings (temperature, air quality, and more).
+Portage is the off-grid mapping and community-assets capability of the Hazardscape emergency management platform [Hazardscape emergency management platform](https://hazardscape.com). Once a node is connected, it appears as a live marker on your community's map with its name, last-seen time, battery, position, and any sensor readings (temperature, air quality, and more).
 
 > This guide is written to be shared with community members. It covers the **cloud** connection path: your gateway node connects to the Portage broker over the internet (TLS-encrypted). Each community has its own login and its own private topic, so your nodes stay separate from every other community.
 
