@@ -133,6 +133,22 @@ community's node.
 
 ---
 
+## Who can see your node
+
+Once your node is on the map, **you choose who can see it**. On the **Portage** page, find the **My nodes** panel:
+
+1. **Take ownership** of your node - a button next to any unclaimed node in your community. A node you take starts **Private**.
+2. Set its visibility:
+   - **Private (only me)** - only you see it on the map, and it is not sent to ATAK.
+   - **Community** - everyone in your community sees it.
+   - **Public (everyone)** - everyone on the platform (all communities) sees it, and it is shared to ATAK. You are asked to confirm first.
+
+A **community admin** can require approval before a member makes a node **Public** (a toggle in the Node ownership panel); the request then waits for the admin to approve.
+
+**Markers** you drop on the map have the same three choices - Private / Community / Public - picked when you place the marker. A private marker is visible only to you and is not sent to ATAK.
+
+---
+
 ## Troubleshooting
 
 **Node does not appear on the map**

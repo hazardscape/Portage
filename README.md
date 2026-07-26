@@ -30,6 +30,7 @@ Portage is the off-grid mapping and community-assets capability of the [Hazardsc
 - [Step 4 - Make sure the node has a position](#step-4---make-sure-the-node-has-a-position)
 - [Step 5 - See it on the map](#step-5---see-it-on-the-map)
 - [Step 6 - Claim the node (community admin)](#step-6---claim-the-node-community-admin)
+- [Who can see your node](#who-can-see-your-node)
 - [Troubleshooting](#troubleshooting)
 - [Good to know](#good-to-know)
 - [Helpful links](#helpful-links)
@@ -150,6 +151,22 @@ Only unclaimed nodes and your own community's nodes are listed, so you can never
   <img src="images/portage-node-ownership.png" alt="The Node ownership panel on the Portage page with Claim and Release buttons" width="480">
   <br><em>The Node ownership panel - Claim moves a node onto your community's map.</em>
 </p>
+
+---
+
+## Who can see your node
+
+Once your node is on the map, **you choose who can see it**. On the **Portage** page, find the **My nodes** panel:
+
+1. **Take ownership** of your node - a button next to any unclaimed node in your community. A node you take starts **Private**.
+2. Set its visibility from the dropdown:
+   - **Private (only me)** - only you see it on the map, and it is not sent to ATAK.
+   - **Community** - everyone in your community sees it.
+   - **Public (everyone)** - everyone on the platform (all communities) sees it, and it is shared to ATAK. You are asked to confirm, since this is platform-wide.
+
+A **community admin** can turn on an approval requirement (in the Node ownership panel), so a member's request to make a node **Public** waits for the admin to approve it first.
+
+> **Markers** you drop on the map have the same three choices - Private / Community / Public - picked when you place the marker. A private marker is visible only to you and is not sent to ATAK.
 
 ---
 
